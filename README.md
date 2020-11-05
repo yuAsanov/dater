@@ -14,7 +14,7 @@ You can see [package information on Packagist.](https://packagist.org/packages/d
 
 	{
 		"require": {
-			"dater/dater": "^2.0"
+			"yasanov/dater": "^2.0"
 		}
 	}
 

@@ -1,6 +1,6 @@
 {
-	"name": "dater/dater",
-	"description": "Compact PHP library for working with date/time in different formats & timezones.",
+	"name": "yasanov/dater",
+	"description": "Compact PHP library for working with date/time in different formats & timezones. Updated jstz",
 	"keywords": ["PHP", "date", "timezone", "datetime", "time"],
 	"homepage": "https://github.com/barbushin/dater",
 	"license": "BSD 3-Clause",
